@@ -17,6 +17,9 @@ function App() {
    </div>
       <h2>khush patel</h2>
       <h1>"divya patel</h1>
+      <h1>"sss patel</h1>
+      <h1>"divya patel</h1>
+      <h1>"divya patel</h1>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
