@@ -11,9 +11,9 @@ function App() {
       <div>
          "hello world 3"
 
-         "hello world harsh butani"
+         "hello world harsh butani is good peorple tyes hhkds"
 
-         "another final changes"
+         "another final changes, anoyher chagnge"
    </div>
       <h2>khush patel</h2>
       <h1>"divya patel</h1>
